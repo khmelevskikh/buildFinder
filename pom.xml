@@ -14,16 +14,6 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
 
-    <repositories>
-        <repository>
-            <id>nexussrv.nc.thirdparty</id>
-            <url>https://nexussrv.netcracker.com/content/repositories/nc.thirdparty_sync/</url>
-        </repository>
-        <repository>
-            <id>nexussrv.nc.general</id>
-            <url>https://nexussrv.netcracker.com/content/repositories/nc.general_sync/</url>
-        </repository>
-    </repositories>
     <build>
             <plugins>
                     <plugin>
